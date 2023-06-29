@@ -16,19 +16,34 @@ const HomePage = () => {
       <section className="about-section">
         <div className="about-content">
           <h2>About Me</h2>
-          <p>Brian Reeves Full Stack Developer</p>
+          <p>Brian Reeves Application Developer</p>
         </div>
       </section>
       <section className="portfolio-section">
         <div className="portfolio-content">
           <h2>My Portfolio</h2>
           {/* Add your portfolio items here */}
+          <p>IBM Apprenticeship</p>
+          <p>AWS Certified Cloud Practitioner</p>
+          <p>CU Certified Cloud Test Practitioner</p>
+          <p>Full Stack Coding Academy Bootcamp</p>
+          <p></p>
+        </div>
+      </section>
+      <section className="work-history-section">
+        <div className="work-history-content">
+          <h2>Work History</h2>
+          <p>IBM</p>
+          <p>State Farm</p>
+          <p>TQL</p>
+          <p>AFLAC</p>
         </div>
       </section>
       <section className="contact-section">
         <div className="contact-content">
           <h2>Contact Me</h2>
-          <p>Feel free to reach out to me for any inquiries.</p>
+          <p>Email: brianreeves729@gmail.com</p>
+          <p>GitHub: https://github.com/brianreeves33</p>
         </div>
       </section>
       <footer className="footer">

@@ -74,6 +74,16 @@
     font-size: 24px;
     margin-bottom: 10px;
   }
+
+  .work-history-section {
+    background-color: #f0f0f0;
+    padding: 40px;
+  }
+
+  .work-history-content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
   
   .contact-section {
     background-color: #fff;
