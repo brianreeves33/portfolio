@@ -9,6 +9,7 @@ const HomePage = () => {
       <section className="hero-section">
         <div className="hero-content">
           <h1>Welcome to My Portfolio</h1>
+          {/* Add Photo Here */}
           <p>I am a passionate developer.</p>
           <button>View Portfolio</button>
         </div>
